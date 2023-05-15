@@ -1,0 +1,19 @@
+{
+  "name": "cinemabot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./src/index.js",
+    "dev": "nodemon ./src/index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "geolib": "^3.3.3",
+    "lodash": "^4.17.21",
+    "mongoose": "^7.0.4",
+    "node-telegram-bot-api": "^0.61.0",
+    "nodemon": "^2.0.22"
+  }
+}

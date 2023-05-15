@@ -1,0 +1,430 @@
+{
+  "films": [
+    {
+      "uuid": "f123",
+      "name": "Inception",
+      "type": "Action",
+      "year": "2010",
+      "rate": 8.6,
+      "length": "2:28",
+      "country": "USA",
+      "link": "https://www.imdb.com/title/tt1375666/",
+      "picture": "https://play-lh.googleusercontent.com/TGaTckK5V7VKlJ34PFlON5ei_DARWndAHrDqOWTaC6kH5R8V8RlxE6i22VswAx3ENx-3",
+      "cinemas": ["c123", "c125", "c127"]
+    },
+    {
+      "uuid": "f124",
+      "name": "Gladiator",
+      "type": "Action",
+      "year": "2000",
+      "rate": 8.6,
+      "length": "2:35",
+      "country": "USA",
+      "link": "https://www.imdb.com/title/tt0172495/",
+      "picture": "https://m.media-amazon.com/images/I/71LPLHCs7HL._AC_SY606_.jpg",
+      "cinemas": ["c124", "c126", "c128"]
+    },
+    {
+      "uuid": "f125",
+      "name": "The Matrix",
+      "type": "Action",
+      "year": "1999",
+      "rate": 8.5,
+      "length": "2:16",
+      "country": "USA",
+      "link": "https://www.imdb.com/title/tt0133093/",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS4jfQQt_0vCA4XSwGiWkffC32Tv2oajdWhaYHHVYylYGJ3v17Q",
+      "cinemas": ["c123", "c125", "c127"]
+    },
+    {
+      "uuid": "f126",
+      "name": "Brother",
+      "type": "Action",
+      "year": "1997",
+      "rate": 8.5,
+      "length": "1:40",
+      "country": "Russia",
+      "link": "https://www.imdb.com/title/tt0118767/",
+      "picture": "https://m.media-amazon.com/images/M/MV5BMTYxNjg5ODc3NF5BMl5BanBnXkFtZTcwNTQ4NTQ0MQ@@._V1_.jpg",
+      "cinemas": ["c124", "c126", "c128"]
+    },
+    {
+      "uuid": "f127",
+      "name": "Lock, Stock and Two Smoking Barrels",
+      "type": "Comedy",
+      "year": "1998",
+      "rate": 8.5,
+      "length": "1:47",
+      "country": "Great Britain",
+      "link": "https://www.imdb.com/title/tt0120735/",
+      "picture": "https://m.media-amazon.com/images/M/MV5BMTAyN2JmZmEtNjAyMy00NzYwLThmY2MtYWQ3OGNhNjExMmM4XkEyXkFqcGdeQXVyNDk3NzU2MTQ@._V1_FMjpg_UX1000_.jpg",
+      "cinemas": ["c123", "c125", "c127"]
+    },
+    {
+      "uuid": "f128",
+      "name": "Forrest Gump",
+      "type": "Comedy",
+      "year": "1994",
+      "rate": 8.9,
+      "length": "2:22",
+      "country": "USA",
+      "link": "https://www.imdb.com/title/tt0109830/",
+      "picture": "https://images-na.ssl-images-amazon.com/images/S/pv-target-images/a936773f0c801c5bc31f5e245584e8c4ab13972101086efb347d5f94d10430e6._RI_V_TTW_.jpg",
+      "cinemas": ["c124", "c126", "c128"]
+    },
+    {
+      "uuid": "f129",
+      "name": "1+1",
+      "type": "Comedy",
+      "year": "2011",
+      "rate": 8.8,
+      "length": "1:52",
+      "country": "France",
+      "link": "https://www.imdb.com/title/tt3445702/",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTTGCKq7GcLEuE3dGs--1rBVJm9dmHeZEtWTE_RzuuwqtkDkobG",
+      "cinemas": ["c123", "c125", "c127"]
+    },
+    {
+      "uuid": "f130",
+      "name": "Knockin' on Heaven's Door",
+      "type": "Comedy",
+      "year": "1997",
+      "rate": 8.6,
+      "length": "1:27",
+      "country": "Germany",
+      "link": "https://www.imdb.com/title/tt0119472/",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjD3jXSFD8rM_b6Sk6a_InAFzZDknyE7gK7dip8Y5RQLpi6rre",
+      "cinemas": ["c124", "c126", "c128"]
+    },
+    {
+      "uuid": "f131",
+      "name": "Alien",
+      "type": "Horror",
+      "year": "1979",
+      "rate": 8.5,
+      "length": "1:57",
+      "country": "USA",
+      "link": "https://www.imdb.com/title/tt0078748",
+      "picture": "https://m.media-amazon.com/images/M/MV5BOGQzZTBjMjQtOTVmMS00NGE5LWEyYmMtOGQ1ZGZjNmRkYjFhXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_.jpg",
+      "cinemas": ["c123", "c125", "c127"]
+    },
+    {
+      "uuid": "f132",
+      "name": "Yellowjackets",
+      "type": "Horror",
+      "year": "2021",
+      "rate": 7.9,
+      "length": "1:00",
+      "country": "USA",
+      "link": "https://www.imdb.com/title/tt11041332/",
+      "picture": "https://flxt.tmsimg.com/assets/p23906070_b_v13_ab.jpg",
+      "cinemas": ["c124", "c126", "c128"]
+    },
+    {
+      "uuid": "f133",
+      "name": "The Evil Dead",
+      "type": "Horror",
+      "year": "1981",
+      "rate": 7.4,
+      "length": "1:25",
+      "country": "USA",
+      "link": "https://www.imdb.com/title/tt0083907",
+      "picture": "https://m.media-amazon.com/images/M/MV5BODc2MmVjZmUtNjAzMS00MDNiLWIyM2YtOGEzMjg0YjRhMzRmXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
+      "cinemas": ["c123", "c125", "c127"]
+    },
+    {
+      "uuid": "f134",
+      "name": "The Tank",
+      "type": "Horror",
+      "year": "2023",
+      "rate": 4.6,
+      "length": "1:40",
+      "country": "New Zealand",
+      "link": "https://www.imdb.com/title/tt14687418",
+      "picture": "https://m.media-amazon.com/images/M/MV5BOWViZWFlMzgtN2ZjYi00NjIzLWI4MjAtZTE5YWY2ZGRjN2U4XkEyXkFqcGdeQXVyMTQzNTA5MzYz._V1_FMjpg_UX1000_.jpg",
+      "cinemas": ["c124", "c126", "c128"]
+    },
+    {
+      "uuid": "f135",
+      "name": "John Wick: Chapter 4",
+      "type": "Thriller",
+      "year": "2023",
+      "rate": 8.2,
+      "length": "2:49",
+      "country": "USA",
+      "link": "https://www.imdb.com/title/tt10366206",
+      "picture": "https://m.media-amazon.com/images/M/MV5BMDExZGMyOTMtMDgyYi00NGIwLWJhMTEtOTdkZGFjNmZiMTEwXkEyXkFqcGdeQXVyMjM4NTM5NDY@._V1_FMjpg_UX1000_.jpg",
+      "cinemas": ["c123", "c125", "c127"]
+    },
+    {
+      "uuid": "f136",
+      "name": "The Diplomat",
+      "type": "Thriller",
+      "year": "2023",
+      "rate": 6.7,
+      "length": "0:50",
+      "country": "USA",
+      "link": "https://www.imdb.com/title/tt17001504",
+      "picture": "https://static.wikia.nocookie.net/netflix/images/c/c7/The_Diplomat_with_date.jpg/revision/latest?cb=20230408105744",
+      "cinemas": ["c124", "c126", "c128"]
+    },
+    {
+      "uuid": "f137",
+      "name": "Guy Ritchie's the Covenant",
+      "type": "Thriller",
+      "year": "2023",
+      "rate": 8.0,
+      "length": "2:03",
+      "country": "USA",
+      "link": "https://www.imdb.com/title/tt4873118",
+      "picture": "https://m.media-amazon.com/images/M/MV5BNmQzOWZhOTMtZTcxNC00MTdkLWEwYmUtOWVmOTFhNTdkNjRkXkEyXkFqcGdeQXVyODk2NDQ3MTA@._V1_FMjpg_UX1000_.jpg",
+      "cinemas": ["c123", "c125", "c127"]
+    },
+    {
+      "uuid": "f138",
+      "name": "Rabbit Hole",
+      "type": "Thriller",
+      "year": "2023",
+      "rate": 7.5,
+      "length": "1:28",
+      "country": "USA",
+      "link": "https://www.imdb.com/title/tt5822112",
+      "picture": "https://m.media-amazon.com/images/M/MV5BYWJhYWQ4NzUtMjEyYy00NGYxLTgyNzctMTRhMTQ4YTVlNTBjXkEyXkFqcGdeQXVyMTMwMzY2NDAx._V1_.jpg",
+      "cinemas": ["c124", "c126", "c128"]
+    },
+    {
+      "uuid": "f139",
+      "name": "The Hunger Games",
+      "type": "Sci-Fi",
+      "year": "2012",
+      "rate": 7.2,
+      "length": "2:22",
+      "country": "USA",
+      "link": "https://www.imdb.com/title/tt1392170",
+      "picture": "https://m.media-amazon.com/images/I/71WSzS6zvCL._AC_UF1000,1000_QL80_.jpg",
+      "cinemas": ["c123", "c125", "c127"]
+    },
+    {
+      "uuid": "f140",
+      "name": "Bienvenidos a Edén",
+      "type": "Sci-Fi",
+      "year": "2022",
+      "rate": 5.6,
+      "length": "0:40",
+      "country": "Spain",
+      "link": "https://www.imdb.com/title/tt13457822",
+      "picture": "https://m.media-amazon.com/images/M/MV5BOTJjYzExN2YtZWY4Ni00ZjE5LWE2MTItMjZlZjNmNjE5Mzg5XkEyXkFqcGdeQXVyNjkyNDIxMjM@._V1_.jpg",
+      "cinemas": ["c124", "c126", "c128"]
+    },
+    {
+      "uuid": "f141",
+      "name": "Nope",
+      "type": "Sci-Fi",
+      "year": "2022",
+      "rate": 6.8,
+      "length": "2:10",
+      "country": "USA",
+      "link": "https://www.imdb.com/title/tt10954984",
+      "picture": "https://pad.mymovies.it/filmclub/2021/11/288/locandinapg2.jpg",
+      "cinemas": ["c129", "c130", "c131"]
+    },
+    {
+      "uuid": "f142",
+      "name": "Severance",
+      "type": "Sci-Fi",
+      "year": "2022",
+      "rate": 8.7,
+      "length": "0:55",
+      "country": "USA",
+      "link": "https://www.imdb.com/title/tt10954984",
+      "picture": "https://m.media-amazon.com/images/M/MV5BMjkwZjcwMGQtNDAzOC00YjJiLThiYTgtNWU3ZjRiZmY2YzEzXkEyXkFqcGdeQXVyMTMzNDExODE5._V1_.jpg",
+      "cinemas": ["c129", "c130", "c131"]
+    },
+    {
+      "uuid": "f143",
+      "name": "Ghosted",
+      "type": "Adventure",
+      "year": "2023",
+      "rate": 5.8,
+      "length": "1:56",
+      "country": "USA",
+      "link": "https://www.imdb.com/title/tt15326988",
+      "picture": "https://upload.wikimedia.org/wikipedia/en/8/89/Ghosted_Promo.png",
+      "cinemas": ["c129", "c130", "c131"]
+    },
+    {
+      "uuid": "f144",
+      "name": "The Mandalorian",
+      "type": "Adventure",
+      "year": "2019",
+      "rate": 8.7,
+      "length": "0:40",
+      "country": "USA",
+      "link": "https://www.imdb.com/title/tt8111088",
+      "picture": "https://m.media-amazon.com/images/I/91+5a2Dr+5L._AC_UF1000,1000_QL80_.jpg",
+      "cinemas": ["c123", "c125", "c127"]
+    },
+    {
+      "uuid": "f145",
+      "name": "The Flash",
+      "type": "Adventure",
+      "year": "2014",
+      "rate": 7.5,
+      "length": "0:43",
+      "country": "USA",
+      "link": "https://www.imdb.com/title/tt3107288",
+      "picture": "https://m.media-amazon.com/images/M/MV5BZjlkM2RjODgtNjRlYS00MDNjLTkxMzYtOWM4NjAwZTY2MjZiXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_.jpg",
+      "cinemas": ["c129", "c130", "c131"]
+    },
+    {
+      "uuid": "f146",
+      "name": "Guardians of the Galaxy Volume 3",
+      "type": "Adventure",
+      "year": "2023",
+      "rate": 8.3,
+      "length": "2:30",
+      "country": "USA",
+      "link": "https://www.imdb.com/title/tt6791350",
+      "picture": "https://m.media-amazon.com/images/M/MV5BMDgxOTdjMzYtZGQxMS00ZTAzLWI4Y2UtMTQzN2VlYjYyZWRiXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_FMjpg_UX1000_.jpg",
+      "cinemas": ["c123", "c125", "c127"]
+    },
+    {
+      "uuid": "f147",
+      "name": "Shingeki no Kyojin",
+      "type": "Animation",
+      "year": "2013",
+      "rate": 9.1,
+      "length": "0:24",
+      "country": "Japan",
+      "link": "https://www.imdb.com/title/tt2560140",
+      "picture": "https://www.crunchyroll.com/imgsrv/display/thumbnail/480x720/catalog/crunchyroll/323c82257b2f6567fabbb7bd55bfa753.jpe",
+      "cinemas": ["c129", "c130", "c131"]
+    },
+    {
+      "uuid": "f148",
+      "name": "South Park",
+      "type": "Animation",
+      "year": "1997",
+      "rate": 8.7,
+      "length": "0:22",
+      "country": "USA",
+      "link": "https://www.imdb.com/title/tt0121955",
+      "picture": "https://m.media-amazon.com/images/M/MV5BZjNhODYzZGItZWQ3Ny00ZjViLTkxMTUtM2EzN2RjYjU2OGZiXkEyXkFqcGdeQXVyMTI5MTc0OTIy._V1_FMjpg_UX1000_.jpg",
+      "cinemas": ["c123", "c125", "c127"]
+    },
+    {
+      "uuid": "f149",
+      "name": "Puss in Boots: The Last Wish",
+      "type": "Animation",
+      "year": "2022",
+      "rate": 7.9,
+      "length": "1:42",
+      "country": "USA",
+      "link": "https://www.imdb.com/title/tt3915174",
+      "picture": "https://m.media-amazon.com/images/M/MV5BNjMyMDBjMGUtNDUzZi00N2MwLTg1MjItZTk2MDE1OTZmNTYxXkEyXkFqcGdeQXVyMTQ5NjA0NDM0._V1_.jpg",
+      "cinemas": ["c129", "c130", "c131"]
+    },
+    {
+      "uuid": "f150",
+      "name": "Love, Death & Robots",
+      "type": "Animation",
+      "year": "2019",
+      "rate": 8.4,
+      "length": "0:15",
+      "country": "USA",
+      "link": "https://www.imdb.com/title/tt9561862",
+      "picture": "https://m.media-amazon.com/images/M/MV5BYTNiYTNkNTAtYzE3ZS00ZDQ1LWEwZTYtZjI1NzYzMWJjY2U4XkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_FMjpg_UX1000_.jpg",
+      "cinemas": ["c123", "c125", "c127"]
+    }
+  ],
+  "cinemas": [
+    {
+      "uuid": "c123",
+      "name": "Cinema Corso",
+      "location": {
+        "latitude": 45.05056,
+        "longitude": 9.6906213
+      },
+      "url": "https://www.cinemacorsopc.com",
+      "films": ["f890", "f678", "f567", "f123", "f234"]
+    },
+    {
+      "uuid": "c124",
+      "name": "UCI Cinemas Piacenza",
+      "location": {
+        "latitude": 45.0284715,
+        "longitude": 9.6946503
+      },
+      "url": "https://www.ucicinemas.it/cinema/emilia-romagna/piacenza/uci-cinemas-piacenza/",
+      "films": ["f345", "f678"]
+    },
+    {
+      "uuid": "c125",
+      "name": "Arcobaleno Film Center",
+      "location": {
+        "latitude": 45.5644776,
+        "longitude": 9.0586653
+      },
+      "url": "http://cinenauta.it/arcobaleno/",
+      "films": ["f123", "f345", "f456", "f567", "f789"]
+    },
+    {
+      "uuid": "c126",
+      "name": "CINEMA JOLLY",
+      "location": {
+        "latitude": 45.056371,
+        "longitude": 9.1779688
+      },
+      "url": "http://www.jolly2.com/",
+      "films": ["f234", "f456", "f789", "f890"]
+    },
+    {
+      "uuid": "c127",
+      "name": "Arcadia Cinema Melzo",
+      "location": {
+        "latitude": 45.4991665,
+        "longitude": 8.8096377
+      },
+      "url": "http://www.arcadiacinema.com/",
+      "films": ["f567", "f789"]
+    },
+    {
+      "uuid": "c128 ",
+      "name": "Cinema Politeama",
+      "location": {
+        "latitude": 45.0493723,
+        "longitude": 9.680771
+      },
+      "url": "http://www.politeamapc.com/",
+      "films": ["f567", "f789"]
+    },
+    {
+      "uuid": "c129 ",
+      "name": "Cinema Capitol",
+      "location": {
+        "latitude": 45.0323229,
+        "longitude": 9.5976533
+      },
+      "url": "http://www.cinecapitol.com/",
+      "films": ["f567", "f789"]
+    },
+    {
+      "uuid": "c130 ",
+      "name": "Cine Fox",
+      "location": {
+        "latitude": 45.0406919,
+        "longitude": 9.5071392
+      },
+      "films": ["f567", "f789"]
+    },
+    {
+      "uuid": "c131 ",
+      "name": "Cinema Odeon",
+      "location": {
+        "latitude": 45.1429101,
+        "longitude": 8.5277959
+      },
+      "films": ["f567", "f789"]
+    }
+  ]
+}

@@ -238,7 +238,6 @@ function sendFilmByQuery(chatId, query) {
     })
 }
 
-
 function sendHTML(chatId, html, kbName = null) {
     const options = {
         parse_mode: 'HTML'
@@ -267,6 +266,7 @@ function getCinemasInCoords(chatId, location) {
         sendHTML(chatId, html, 'home')
     })
 }
+
 // Manipolazione con favourites
 function toggleFavouriteFilm(userId, queryId, {filmUuid, isFav}) {
     let userPromise
@@ -294,6 +294,7 @@ function toggleFavouriteFilm(userId, queryId, {filmUuid, isFav}) {
     }).catch(err => console.log(err))
 
 }
+
 // Visualizzazione dei favoriti
 function showFavouriteFilms(chatId, telegramId) {
     User.findOne({telegramId})
@@ -327,3 +328,7 @@ function sendCinemasByQuery(userId, query) {
         sendHTML(userId, html, 'home')
     })
 }
+
+
+
+
